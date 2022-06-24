@@ -1,3 +1,10 @@
+## Infos du projet
+
+Ce projet a été réalisé en collaboration avec 2 autres élèves de la Web Academie.
+Le principe était de créer un clone de spotify en React en utilisant une api que nous avons nous même créé.
+Ce projet à été réalisé lors d'un "Rush" de 3 jours.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
